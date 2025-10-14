@@ -1,0 +1,27 @@
+h2 {
+    font-family: 'Trebuchet MS', sans-serif;
+}
+
+#titulo-receta {
+    background-color: #ffca3a;
+    color: #333;
+    text-align: center;
+    padding: 10px;
+    border-radius: 8px;
+}
+
+.ingrediente-principal {
+    font-weight: bold;
+}
+
+.paso-importante {
+    background-color: beige;
+}
+
+div.ingredientes li {
+    color: #2b9348;
+}
+
+div.pasos li {
+    color: #277da1;
+}

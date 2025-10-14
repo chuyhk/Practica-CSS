@@ -1,0 +1,26 @@
+a[href*="twitter.com"] {
+    color: #1DA1F2;
+}
+
+h1 + p {
+    font-size: 1.1em;
+}
+
+.enlace-principal:hover {
+    color: #fff;
+    background-color: #0077b6;
+    padding: 5px 10px;
+    border-radius: 5px;
+}
+
+.palabra-clave {
+    color: #fff;
+    background-color: #f3722c;
+    padding: 2px 4px;
+    border-radius: 3px;
+}
+
+ul li:nth-child(even) {
+    background-color: #f1f1f1;
+    list-style: none;
+}
